@@ -20,4 +20,3 @@ https://ironhacktas.github.io/Ironhack-projects-showcase/
 |usurpadoras-project|http://usurpadoras-project.herokuapp.com|
 |marvel-maniac-2|https://marvel-maniac-2.herokuapp.com/|
 |cachitos|https://cachitos.herokuapp.com/|
-|gifsonly|https://gifsonly.herokuapp.com/|
