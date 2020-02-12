@@ -1,4 +1,4 @@
-# Ironhack-projects-showcase
+# Ironhack-projects-showcase ⭐️
 some projects of second module created during the web dev full time bootcamp
 
 | Name                | Link                                    |
