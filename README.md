@@ -1,6 +1,8 @@
 # Ironhack-projects-showcase ⭐️
 some projects of second module created during the web dev full time bootcamp
 
+https://ironhacktas.github.io/Ironhack-projects-showcase/
+
 | Name                | Link                                    |
 |---------------------|-----------------------------------------|
 |chinopen             |http://chinopen.herokuapp.com/           |
